@@ -1,11 +1,12 @@
-sentence-transformers==2.2.2 # for sentence embeddings
 langchain
-flask
+streamlit
 pypdf
+openai
 python-dotenv
 pinecone[grpc]
 langchain-pinecone
-langchain_community
 langchain_openai
 langchain_experimental
+ipykernel
+langchain-community
 -e .
